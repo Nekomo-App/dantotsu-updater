@@ -42,3 +42,7 @@ Report problems directly to the upstream issue tracker:
 ## Credits
 
 Full credit goes to [**rebelonion**](https://git.rebelonion.dev/rebelonion) and the [official contributors](https://git.rebelonion.dev/rebelonion/Dantotsu/activity/contributors) who maintain the project.
+
+---
+
+*This project is developed and maintained by [Nekosphere](https://github.com/Nekomo-App) — founded, developed, and led by [N3K0](https://github.com/MarshMeadow).*
